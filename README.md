@@ -2,7 +2,9 @@
 
 A PyTorch implementation of Stable Diffusion built from first principles, with mathematical explanations, architecture diagrams, and step-by-step implementations of diffusion models.
 
-![Stable Diffusion Architecture](docs/images/stable_diffusion.png)
+## Architecture
+
+![Stable Diffusion Architecture](images/stable_diffusion.png)
 
 ## Overview
 
